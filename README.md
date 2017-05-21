@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bill Fennell - My first Rails app: app1
 
-Things you may want to cover:
+Development in the world is becoming more and more cross-platform
+and I intend to keep up with the changes and the new technology
+to make sure I can continue to contribute to, and be useful to,
+our changing world.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
