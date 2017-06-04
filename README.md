@@ -1,11 +1,7 @@
 # README
 
-Bill Fennell - My first Rails app: app1
+Bill Fennell - My first Rails app: Bike_Berlin
 
 Introduction
 
-Development in the world is becoming more and more cross-platform
-and I intend to keep up with the changes and the new technology
-to make sure I can continue to contribute to, and be useful to,
-our changing world.
-
+Bike Berlin - the place to get the best new and used bikes in Berlin!
